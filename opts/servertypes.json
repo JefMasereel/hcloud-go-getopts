@@ -1,0 +1,2030 @@
+[
+ {
+  "ID": 1,
+  "Name": "cx11",
+  "Description": "CX11",
+  "Cores": 1,
+  "Memory": 2,
+  "Disk": 20,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0055000000",
+     "Gross": "0.0065450000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "3.4900000000",
+     "Gross": "4.1531000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0055000000",
+     "Gross": "0.0065450000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "3.4900000000",
+     "Gross": "4.1531000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0055000000",
+     "Gross": "0.0065450000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "3.4900000000",
+     "Gross": "4.1531000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 3,
+  "Name": "cx21",
+  "Description": "CX21",
+  "Cores": 2,
+  "Memory": 4,
+  "Disk": 40,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0080000000",
+     "Gross": "0.0095200000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "4.9000000000",
+     "Gross": "5.8310000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0080000000",
+     "Gross": "0.0095200000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "4.9000000000",
+     "Gross": "5.8310000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0080000000",
+     "Gross": "0.0095200000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "4.9000000000",
+     "Gross": "5.8310000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 5,
+  "Name": "cx31",
+  "Description": "CX31",
+  "Cores": 2,
+  "Memory": 8,
+  "Disk": 80,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0140000000",
+     "Gross": "0.0166600000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "8.9000000000",
+     "Gross": "10.5910000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0140000000",
+     "Gross": "0.0166600000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "8.9000000000",
+     "Gross": "10.5910000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0140000000",
+     "Gross": "0.0166600000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "8.9000000000",
+     "Gross": "10.5910000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 7,
+  "Name": "cx41",
+  "Description": "CX41",
+  "Cores": 4,
+  "Memory": 16,
+  "Disk": 160,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0260000000",
+     "Gross": "0.0309400000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "15.9000000000",
+     "Gross": "18.9210000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0260000000",
+     "Gross": "0.0309400000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "15.9000000000",
+     "Gross": "18.9210000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0260000000",
+     "Gross": "0.0309400000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "15.9000000000",
+     "Gross": "18.9210000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 9,
+  "Name": "cx51",
+  "Description": "CX51",
+  "Cores": 8,
+  "Memory": 32,
+  "Disk": 240,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0500000000",
+     "Gross": "0.0595000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "29.9000000000",
+     "Gross": "35.5810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0500000000",
+     "Gross": "0.0595000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "29.9000000000",
+     "Gross": "35.5810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0500000000",
+     "Gross": "0.0595000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "29.9000000000",
+     "Gross": "35.5810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 11,
+  "Name": "ccx11",
+  "Description": "CCX11 Dedicated CPU",
+  "Cores": 2,
+  "Memory": 8,
+  "Disk": 80,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0300000000",
+     "Gross": "0.0357000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "19.9000000000",
+     "Gross": "23.6810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0300000000",
+     "Gross": "0.0357000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "19.9000000000",
+     "Gross": "23.6810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0300000000",
+     "Gross": "0.0357000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "19.9000000000",
+     "Gross": "23.6810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 12,
+  "Name": "ccx21",
+  "Description": "CCX21 Dedicated CPU",
+  "Cores": 4,
+  "Memory": 16,
+  "Disk": 160,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0600000000",
+     "Gross": "0.0714000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "34.9000000000",
+     "Gross": "41.5310000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0600000000",
+     "Gross": "0.0714000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "34.9000000000",
+     "Gross": "41.5310000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0600000000",
+     "Gross": "0.0714000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "34.9000000000",
+     "Gross": "41.5310000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 13,
+  "Name": "ccx31",
+  "Description": "CCX31 Dedicated CPU",
+  "Cores": 8,
+  "Memory": 32,
+  "Disk": 240,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.1200000000",
+     "Gross": "0.1428000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "69.9000000000",
+     "Gross": "83.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.1200000000",
+     "Gross": "0.1428000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "69.9000000000",
+     "Gross": "83.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.1200000000",
+     "Gross": "0.1428000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "69.9000000000",
+     "Gross": "83.1810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 14,
+  "Name": "ccx41",
+  "Description": "CCX41 Dedicated CPU",
+  "Cores": 16,
+  "Memory": 64,
+  "Disk": 360,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.2400000000",
+     "Gross": "0.2856000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "139.9000000000",
+     "Gross": "166.4810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.2400000000",
+     "Gross": "0.2856000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "139.9000000000",
+     "Gross": "166.4810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.2400000000",
+     "Gross": "0.2856000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "139.9000000000",
+     "Gross": "166.4810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 15,
+  "Name": "ccx51",
+  "Description": "CCX51 Dedicated CPU",
+  "Cores": 32,
+  "Memory": 128,
+  "Disk": 600,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.4800000000",
+     "Gross": "0.5712000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "269.9000000000",
+     "Gross": "321.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.4800000000",
+     "Gross": "0.5712000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "269.9000000000",
+     "Gross": "321.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.4800000000",
+     "Gross": "0.5712000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "269.9000000000",
+     "Gross": "321.1810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 22,
+  "Name": "cpx11",
+  "Description": "CPX 11",
+  "Cores": 2,
+  "Memory": 2,
+  "Disk": 40,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0065000000",
+     "Gross": "0.0077350000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "3.9900000000",
+     "Gross": "4.7481000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0065000000",
+     "Gross": "0.0077350000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "3.9900000000",
+     "Gross": "4.7481000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0065000000",
+     "Gross": "0.0077350000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "3.9900000000",
+     "Gross": "4.7481000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0065000000",
+     "Gross": "0.0077350000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "3.9900000000",
+     "Gross": "4.7481000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 23,
+  "Name": "cpx21",
+  "Description": "CPX 21",
+  "Cores": 3,
+  "Memory": 4,
+  "Disk": 80,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0110000000",
+     "Gross": "0.0130900000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "6.9000000000",
+     "Gross": "8.2110000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0110000000",
+     "Gross": "0.0130900000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "6.9000000000",
+     "Gross": "8.2110000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0110000000",
+     "Gross": "0.0130900000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "6.9000000000",
+     "Gross": "8.2110000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0110000000",
+     "Gross": "0.0130900000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "6.9000000000",
+     "Gross": "8.2110000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 24,
+  "Name": "cpx31",
+  "Description": "CPX 31",
+  "Cores": 4,
+  "Memory": 8,
+  "Disk": 160,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0200000000",
+     "Gross": "0.0238000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "12.4000000000",
+     "Gross": "14.7560000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0200000000",
+     "Gross": "0.0238000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "12.4000000000",
+     "Gross": "14.7560000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0200000000",
+     "Gross": "0.0238000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "12.4000000000",
+     "Gross": "14.7560000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0200000000",
+     "Gross": "0.0238000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "12.4000000000",
+     "Gross": "14.7560000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 25,
+  "Name": "cpx41",
+  "Description": "CPX 41",
+  "Cores": 8,
+  "Memory": 16,
+  "Disk": 240,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0380000000",
+     "Gross": "0.0452200000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "22.9000000000",
+     "Gross": "27.2510000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0380000000",
+     "Gross": "0.0452200000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "22.9000000000",
+     "Gross": "27.2510000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0380000000",
+     "Gross": "0.0452200000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "22.9000000000",
+     "Gross": "27.2510000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0380000000",
+     "Gross": "0.0452200000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "22.9000000000",
+     "Gross": "27.2510000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 26,
+  "Name": "cpx51",
+  "Description": "CPX 51",
+  "Cores": 16,
+  "Memory": 32,
+  "Disk": 360,
+  "StorageType": "local",
+  "CPUType": "shared",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0800000000",
+     "Gross": "0.0952000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "49.9000000000",
+     "Gross": "59.3810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0800000000",
+     "Gross": "0.0952000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "49.9000000000",
+     "Gross": "59.3810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0800000000",
+     "Gross": "0.0952000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "49.9000000000",
+     "Gross": "59.3810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0800000000",
+     "Gross": "0.0952000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "49.9000000000",
+     "Gross": "59.3810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 33,
+  "Name": "ccx12",
+  "Description": "CCX12 Dedicated CPU",
+  "Cores": 2,
+  "Memory": 8,
+  "Disk": 80,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0300000000",
+     "Gross": "0.0357000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "19.9000000000",
+     "Gross": "23.6810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0300000000",
+     "Gross": "0.0357000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "19.9000000000",
+     "Gross": "23.6810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0300000000",
+     "Gross": "0.0357000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "19.9000000000",
+     "Gross": "23.6810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0300000000",
+     "Gross": "0.0357000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "19.9000000000",
+     "Gross": "23.6810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 34,
+  "Name": "ccx22",
+  "Description": "CCX22 Dedicated CPU",
+  "Cores": 4,
+  "Memory": 16,
+  "Disk": 160,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0600000000",
+     "Gross": "0.0714000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "34.9000000000",
+     "Gross": "41.5310000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0600000000",
+     "Gross": "0.0714000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "34.9000000000",
+     "Gross": "41.5310000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0600000000",
+     "Gross": "0.0714000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "34.9000000000",
+     "Gross": "41.5310000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.0600000000",
+     "Gross": "0.0714000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "34.9000000000",
+     "Gross": "41.5310000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 35,
+  "Name": "ccx32",
+  "Description": "CCX32 Dedicated CPU",
+  "Cores": 8,
+  "Memory": 32,
+  "Disk": 240,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.1200000000",
+     "Gross": "0.1428000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "69.9000000000",
+     "Gross": "83.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.1200000000",
+     "Gross": "0.1428000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "69.9000000000",
+     "Gross": "83.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.1200000000",
+     "Gross": "0.1428000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "69.9000000000",
+     "Gross": "83.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.1200000000",
+     "Gross": "0.1428000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "69.9000000000",
+     "Gross": "83.1810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 36,
+  "Name": "ccx42",
+  "Description": "CCX42 Dedicated CPU",
+  "Cores": 16,
+  "Memory": 64,
+  "Disk": 360,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.2400000000",
+     "Gross": "0.2856000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "139.9000000000",
+     "Gross": "166.4810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.2400000000",
+     "Gross": "0.2856000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "139.9000000000",
+     "Gross": "166.4810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.2400000000",
+     "Gross": "0.2856000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "139.9000000000",
+     "Gross": "166.4810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.2400000000",
+     "Gross": "0.2856000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "139.9000000000",
+     "Gross": "166.4810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 37,
+  "Name": "ccx52",
+  "Description": "CCX52 Dedicated CPU",
+  "Cores": 32,
+  "Memory": 128,
+  "Disk": 600,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.4800000000",
+     "Gross": "0.5712000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "269.9000000000",
+     "Gross": "321.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.4800000000",
+     "Gross": "0.5712000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "269.9000000000",
+     "Gross": "321.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.4800000000",
+     "Gross": "0.5712000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "269.9000000000",
+     "Gross": "321.1810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.4800000000",
+     "Gross": "0.5712000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "269.9000000000",
+     "Gross": "321.1810000000000000"
+    }
+   }
+  ]
+ },
+ {
+  "ID": 38,
+  "Name": "ccx62",
+  "Description": "CCX62 Dedicated CPU",
+  "Cores": 48,
+  "Memory": 192,
+  "Disk": 960,
+  "StorageType": "local",
+  "CPUType": "dedicated",
+  "Pricings": [
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "fsn1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.7200000000",
+     "Gross": "0.8568000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "399.9000000000",
+     "Gross": "475.8810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "nbg1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.7200000000",
+     "Gross": "0.8568000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "399.9000000000",
+     "Gross": "475.8810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "hel1",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.7200000000",
+     "Gross": "0.8568000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "399.9000000000",
+     "Gross": "475.8810000000000000"
+    }
+   },
+   {
+    "Location": {
+     "ID": 0,
+     "Name": "ash",
+     "Description": "",
+     "Country": "",
+     "City": "",
+     "Latitude": 0,
+     "Longitude": 0,
+     "NetworkZone": ""
+    },
+    "Hourly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "0.7200000000",
+     "Gross": "0.8568000000000000"
+    },
+    "Monthly": {
+     "Currency": "",
+     "VATRate": "",
+     "Net": "399.9000000000",
+     "Gross": "475.8810000000000000"
+    }
+   }
+  ]
+ }
+]

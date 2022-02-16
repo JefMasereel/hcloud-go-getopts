@@ -1,0 +1,338 @@
+[
+ {
+  "ID": 3,
+  "Name": "centos-7",
+  "Type": "system",
+  "Status": "available",
+  "Description": "CentOS 7",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2018-01-15T11:34:45Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "centos",
+  "OSVersion": "7",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 168855,
+  "Name": "ubuntu-18.04",
+  "Type": "system",
+  "Status": "available",
+  "Description": "Ubuntu 18.04",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2018-05-02T11:02:30Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "18.04",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 5924233,
+  "Name": "debian-10",
+  "Type": "system",
+  "Status": "available",
+  "Description": "Debian 10",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2019-07-08T06:35:48Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "debian",
+  "OSVersion": "10",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 15512617,
+  "Name": "ubuntu-20.04",
+  "Type": "system",
+  "Status": "available",
+  "Description": "Ubuntu 20.04",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2020-04-23T17:55:14Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "20.04",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 40093059,
+  "Name": "lamp",
+  "Type": "app",
+  "Status": "available",
+  "Description": "lamp",
+  "ImageSize": 0,
+  "DiskSize": 20,
+  "Created": "2021-06-08T06:21:07Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": false,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "unknown",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 40093134,
+  "Name": "wordpress",
+  "Type": "app",
+  "Status": "available",
+  "Description": "wordpress",
+  "ImageSize": 0,
+  "DiskSize": 20,
+  "Created": "2021-06-08T06:21:42Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": false,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "unknown",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 40093140,
+  "Name": "jitsi",
+  "Type": "app",
+  "Status": "available",
+  "Description": "jitsi",
+  "ImageSize": 0,
+  "DiskSize": 20,
+  "Created": "2021-06-08T06:21:47Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": false,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "unknown",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 40093190,
+  "Name": "nextcloud",
+  "Type": "app",
+  "Status": "available",
+  "Description": "nextcloud",
+  "ImageSize": 0,
+  "DiskSize": 20,
+  "Created": "2021-06-08T06:22:07Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": false,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "unknown",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 40093247,
+  "Name": "docker-ce",
+  "Type": "app",
+  "Status": "available",
+  "Description": "docker-ce",
+  "ImageSize": 0,
+  "DiskSize": 20,
+  "Created": "2021-06-08T06:22:47Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": false,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "unknown",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 40093435,
+  "Name": "gitlab",
+  "Type": "app",
+  "Status": "available",
+  "Description": "gitlab",
+  "ImageSize": 0,
+  "DiskSize": 20,
+  "Created": "2021-06-08T06:24:08Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": false,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "unknown",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 40093620,
+  "Name": "big-blue-button",
+  "Type": "app",
+  "Status": "available",
+  "Description": "big-blue-button",
+  "ImageSize": 0,
+  "DiskSize": 40,
+  "Created": "2021-06-08T06:25:38Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": false,
+  "OSFlavor": "ubuntu",
+  "OSVersion": "unknown",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 45557056,
+  "Name": "debian-11",
+  "Type": "system",
+  "Status": "available",
+  "Description": "Debian 11",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2021-08-16T11:12:01Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "debian",
+  "OSVersion": "11",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 45778012,
+  "Name": "centos-stream-8",
+  "Type": "system",
+  "Status": "available",
+  "Description": "CentOS Stream 8",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2021-08-05T05:07:23Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "centos",
+  "OSVersion": "Stream 8",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 45780948,
+  "Name": "rocky-8",
+  "Type": "system",
+  "Status": "available",
+  "Description": "Rocky Linux 8",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2021-08-19T06:30:23Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "rocky",
+  "OSVersion": "8",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 53994466,
+  "Name": "fedora-35",
+  "Type": "system",
+  "Status": "available",
+  "Description": "Fedora 35",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2021-11-24T09:23:53Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "fedora",
+  "OSVersion": "35",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ },
+ {
+  "ID": 59752342,
+  "Name": "centos-stream-9",
+  "Type": "system",
+  "Status": "available",
+  "Description": "CentOS Stream 9",
+  "ImageSize": 0,
+  "DiskSize": 5,
+  "Created": "2022-01-27T07:52:03Z",
+  "CreatedFrom": null,
+  "BoundTo": null,
+  "RapidDeploy": true,
+  "OSFlavor": "centos",
+  "OSVersion": "Stream 9",
+  "Protection": {
+   "Delete": false
+  },
+  "Deprecated": "0001-01-01T00:00:00Z",
+  "Labels": {},
+  "Deleted": "0001-01-01T00:00:00Z"
+ }
+]
